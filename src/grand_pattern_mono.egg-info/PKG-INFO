@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: grand-pattern-mono
+Version: 0.1.0
+Summary: Mono-vibe corrected architecture – one vibe, JEPA as weighted history, conservation by construction
+Author: SuperInstance
+License: MIT
+Requires-Python: >=3.9
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Dynamic: author
+Dynamic: license
+Dynamic: provides-extra
+Dynamic: requires-python
+Dynamic: summary
